@@ -14,5 +14,7 @@ Use `$ git pull` to update all files from the online repository. Make sure you d
 
 ## Pushing to github command line
 Use `$ git add *` to add any files with changes before committing
+
 Use `$ git commit -m "[change message]"` to commit your changes to the main project
+
 Use `$ git push` to update the online project
